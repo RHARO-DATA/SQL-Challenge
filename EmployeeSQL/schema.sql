@@ -65,6 +65,7 @@ CREATE TABLE titles(
 
 
 --Create Primary Keys for the tables using "Alter table"
+
 --Salaries table
 
 ALTER TABLE salaries
@@ -95,7 +96,6 @@ ADD PRIMARY KEY (emp_no) ;
 
 ALTER TABLE departments
 ADD PRIMARY KEY (dept_no)
-
 
 
 
